@@ -16,4 +16,24 @@ html { box-sizing: border-box; }
 
 body {
 	background-color: #bdc3c7;
+	margin: 0;
+}
+
+.profil {
+	width: 250px;
+	background-color: #31363b;
+	margin: 20px 0 0 20px;
+}
+
+.foto {
+	width: 250px;
+}
+
+.logo {
+	background-color: #b92e81;
+	border-radius: 50%;
+	position: absolute;
+	top: 160px;
+	left:185px;
+
 }
