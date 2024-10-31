@@ -37,3 +37,17 @@ body {
 	left:185px;
 
 }
+
+li {
+	display: block;
+}
+
+.obsah {
+	color:white;
+	padding: 0 20px 0 20px;
+	font-family: 'Source sans 3';
+}
+
+.jmeno {
+	font-family: 'montserrat';
+}
