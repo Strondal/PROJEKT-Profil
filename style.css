@@ -38,8 +38,23 @@ body {
 
 }
 
-li {
-	display: block;
+/*li {
+	display: inline-block;
+}*/
+
+.portfolio,
+.facebook,
+.twitter {
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+
+a {
+	text-decoration: none;
+	color:white;
+	
+	
 }
 
 .obsah {
@@ -50,4 +65,20 @@ li {
 
 .jmeno {
 	font-family: 'montserrat';
+}
+
+.portfolio:hover {
+	background-color:  #e74c3c;
+}
+
+.facebook:hover {
+	background-color: #3b5998;
+}
+
+.twitter:hover {
+	background: #1da1f2;
+}
+
+.portfolio {
+
 }
